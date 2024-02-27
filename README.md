@@ -15,9 +15,25 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="left">Hi I'm Sam</h1>
+<h3 align="left">IT and Engineering. Exploring Cybersecurity, Cloud, AI.</h3>
 <h5 align="left">Pursuing the whims + winds of my curiosities = Cybersecurity, Cloud, IT, AI, Automation. You can find me at the intersections of technology, society, analytics, sports, health & fitness, nutrition, medicine, mindfulness, dogs/petcare, automotives and motorsports...</h5>
 
-<h4 align="left">Let's connect! <a href="https://linkedin.com/in/samsaleira"> linkedin.com/in/samsaleira</a></h4>
+<h2 align="left">Let's connect! <a href="https://linkedin.com/in/samsaleira"> linkedin.com/in/samsaleira</a></h2>
+
+<h2> Adventures in Cybersecurity: </h2>
+<h4> Coming Soon! Here you'll find projects, labs, and documentation of my journey through Cybersecurity.</h4>
+
+
+<h2> Adventures in Cloud: </h2>
+<h4> Coming Soon! Here you'll find projects and other documentation related to studying Cloud and DevOps.</h4>
+
+
+<h2> Adventures in IT: </h2>
+<h4> Coming Soon! Here you'll find projects, labs, and documentation as I expand my expertise in IT.</h4>
+
+
+<h2> Adventures in AI: </h2>
+<h4> Coming Soon! Here you'll find projects and documentation related to AI, Analytics, and Automation.</h4>
 
 <!--
 <h2>👨‍💻 Software Development Projects:</h2>
