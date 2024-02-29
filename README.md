@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 <h2> 🛡️ Adventures in Cybersecurity: </h2>
 <h4> Coming Soon! Here you'll find projects, labs, and documentation of my journey through Cybersecurity.</h4>
+<!---
 <h4> TryHackMe Progress:</h4>
 <img src="https://tryhackme-badges.s3.amazonaws.com/RX7EGEND.png" alt="TryHackMe"> <!-- Updated 2/28/2024 @ 6:30P // WORK ON SETTING UP SOME ACTION TO REFRESH THIS AUTOMATICALLY-->
 
